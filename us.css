@@ -1,0 +1,34 @@
+body{
+    background-image: url(https://cdn.wallpapersafari.com/6/39/ay1rv0.jpg);
+    background-repeat: repeat;
+}
+ #portfolio{
+    display: flex;
+    flex-direction: column;
+    color: lightblue;
+    align-items: center;
+    padding: 10px;
+ }
+ .gallery{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    box-sizing: border-box;
+ }
+ .gallery img{
+    width: 400px;
+    height: 450px;
+    margin: 10px;
+ }
+ .headings{
+    font-family:cursive;
+    font-size: 5.3rem;
+    text-align: center;
+    margin: 25px 0px; 
+    color:yellow;
+    letter-spacing: 5px;
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+}

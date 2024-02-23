@@ -1,0 +1,45 @@
+body{
+    background-image: url(https://wallpapers.com/images/hd/minimalist-love-aesthetic-xlctoiyd1ydmjvw9.jpg);
+    background-repeat: no-repeat;
+}
+#about{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding: 20px;
+    margin-bottom: 50px;
+    color: black;
+}
+#pic{
+    display: flex;
+}
+#pic img{
+    width: 575px;
+    height: 600px;
+}
+#intro{
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    padding: 12px
+}
+#intro h2{
+    font-family: cursive;
+    font-size: 2rem;
+    margin-bottom: 20px;
+   justify-content: center;
+}
+.headings{
+    font-family: cursive;
+    font-size: 4.3rem;
+    text-align: center;
+    margin: 25px 0px; 
+    color:whitesmoke;
+    text-decoration: none;
+}
+.lorem{
+    font-size: 2rem;
+}
+h1{
+    text-align: center;
+}

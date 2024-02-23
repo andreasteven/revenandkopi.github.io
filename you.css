@@ -1,0 +1,44 @@
+body{
+    background-image: url(https://wallpapers.com/images/hd/light-pink-cloud-aesthetic-aeiohltytoesymiy.jpg);
+    background-repeat: no-repeat;
+}
+#about{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+#pic{
+    display: flex;
+}
+#pic img{
+    width: 575px;
+    height: 700px;
+}
+#intro{
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    padding: 12px
+}
+#intro h2{
+    font-family: cursive;
+    font-size: 2rem;
+    margin-bottom: 20px;
+   justify-content: center;
+}
+.headings{
+    font-family: cursive;
+    font-size: 4.3rem;
+    margin: 25px 0px; 
+    color:deeppink;
+    text-decoration: none;
+    text-align: center;
+}
+.lorem{
+    font-size: 2rem;
+}
+h1{
+    text-align: center;
+}
